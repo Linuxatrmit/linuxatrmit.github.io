@@ -1,2 +1,2 @@
 **Resources**
-[linux.com www.github.com]
+[linux.com] (https://www.kernel.org/)
