@@ -5,7 +5,7 @@
 ***one***
 ---------------
 <br>
-<table>
+<table border=1px solid>
 <tr>
 <th>a</th>
 <th>b</th>
