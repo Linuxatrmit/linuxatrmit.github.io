@@ -5,7 +5,7 @@
 ***one***
 ---------------
 <br>
-<table border=1px solid>
+<table border=1px solid; border-collapse:collapse>
 <tr>
 <th>a</th>
 <th>b</th>
