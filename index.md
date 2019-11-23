@@ -7,7 +7,9 @@
 <br>
 <table>
 <tr>
-<th>fuck</th>
-<th>you</th>
+<th>a</th>
+<th>b</th>
+<td>a</td>
+<td>b</td>
 </tr>
 </table>
