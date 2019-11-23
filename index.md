@@ -9,6 +9,8 @@
 <tr>
 <th>a</th>
 <th>b</th>
+</tr>
+<tr>
 <td>a</td>
 <td>b</td>
 </tr>
