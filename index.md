@@ -1,2 +1,2 @@
-**Resources:**
-  * [linux.com](https://www.kernel.org/)
+**Resources:**<br>
+ [linux.com](https://www.kernel.org/)
