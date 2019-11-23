@@ -4,14 +4,5 @@
 **one**
 ***one***
 ---------------
-<br>
-<table border=1px solid; border-collapse:collapse>
-<tr>
-<th>a</th>
-<th>b</th>
-</tr>
-<tr>
-<td>a</td>
-<td>b</td>
-</tr>
-</table>
+* Item
+* Item
