@@ -1,3 +1,16 @@
+
+#Distributions
+##[openSUSE](https://www.opensuse.org/)
+![openSUSE](openSUSE.jpg)
+##[Manjaro](https://manjaro.org/)
+![Manjaro](manjaro.jpg)
+##[PopOS](https://system76.com/pop)
+![PopOS](PopOS.jpg)
+##[Fedora](https://ubuntu.com/)
+![Fedora](fedora.jpg)
+##[Ubuntu](https://ubuntu.com/)
+![Ubuntu](ubuntu.jpg)
+
 ## Useful Linux Utilities
 * ***ls*** - List files in the directory
 * ***find*** - Search for path name, by name, size, regex match and many more
@@ -13,18 +26,6 @@
 * ***head*** - Outputs the top of stdin or a file.
 * ***tail*** - Outputs the bottom of stdin or a file. Useful for following logs, especially with the -f switch.
 
-
-#Distributions
-##[openSUSE](https://www.opensuse.org/)
-![openSUSE](openSUSE.jpg)
-##[Manjaro](https://manjaro.org/)
-![Manjaro](manjaro.jpg)
-##[PopOS](https://system76.com/pop)
-![PopOS](PopOS.jpg)
-##[Fedora](https://ubuntu.com/)
-![Fedora](fedora.jpg)
-##[Ubuntu](https://ubuntu.com/)
-![Ubuntu](ubuntu.jpg)
 #Shell
 When launching a terminal, you are interacting with a shell program from the command-line. Most distribution define ***bash*** as the default shell, while some have the minimal ***ash***, or ***sh*** as the default shell. There is another 3rd popular shell: ***zsh***.
 <br>
