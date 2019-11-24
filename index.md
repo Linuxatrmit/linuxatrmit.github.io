@@ -1,7 +1,13 @@
 ## Useful Linux Utilities
 * ***ls*** - List files in the directory
 * ***find*** - Search for path name, by name, size, regex match and many more
-* ***chmod*** - Change the permission mode for owner/group/other, to update their read/write/execute permissions
+ ** by name
+* ***chmod*** - Change the permission mode for owner/group/other, to update their read/write/execute permissions.
+* ***chown*** - Changes the owner/group attributes of a file.
+* ***man*** - Show help for commands.
+* ***cat*** - Output the file's context to standard out.
+* ***head*** - Outputs the top of stdin or a file.
+* ***tail*** - Outputs the bottom of stdin or a file. Useful for following logs, especially with the -f switch.
 
 
 #Distributions
