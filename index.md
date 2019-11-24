@@ -2,7 +2,9 @@
 * ***ls*** list files in the directory
 
 ```
-ls
+int main()
+{
+}
 ```
 
 #Distributions
