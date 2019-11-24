@@ -1,4 +1,6 @@
-#shell
+#Distributions
+![Ubuntu](/home/a/ubuntu.jpg)
+#Shell
 When launching a terminal, you are interacting with a shell program from the command-line. Most distribution define ***bash*** as the default shell, while some have the minimal ***ash***, or ***sh*** as the default shell. There is another 3rd popular shell: ***zsh***.
 <br>
 The basic ***sh*** program lacks the rich features of modern shells such as: *command completion* *file-name completion* *command-history* and many more.
