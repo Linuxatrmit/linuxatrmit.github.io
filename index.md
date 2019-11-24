@@ -1,7 +1,7 @@
 ## Useful Linux Utilities
 * ***ls*** - List files in the directory
 * ***find*** - Search for path name, by name, size, regex match and many more
- * **-name** will match the ***base*** of a file name against the shell pattern specified by the argument. The pattern arg should be quoted to prevent the shell to do file name expansion before its execution. 
+ * *-name pattern*  will match the ***base*** of a file name against the shell pattern specified by the argument. The pattern arg should be quoted to prevent the shell to do file name expansion before its execution. 
 * ***chmod*** - Change the permission mode for owner/group/other, to update their read/write/execute permissions.
 * ***chown*** - Changes the owner/group attributes of a file.
 * ***man*** - Show help for commands.
