@@ -1,8 +1,10 @@
 ## Useful Linux Utilities
 * ***ls*** list files in the directory
-```
+
+```shell
 ls
 ```
+
 #Distributions
 ##[openSUSE](https://www.opensuse.org/)
 ![openSUSE](openSUSE.jpg)
