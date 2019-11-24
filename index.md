@@ -5,7 +5,7 @@
 ##[Manjaro](https://manjaro.org/)
 ![Manjaro](manjaro.jpg)
 ##[PopOS](https://system76.com/pop)
-![PopOS](PopOS.jpg)
+![PopOS](popOS.jpg)
 ##[Fedora](https://ubuntu.com/)
 ![Fedora](fedora.jpg)
 ##[Ubuntu](https://ubuntu.com/)
