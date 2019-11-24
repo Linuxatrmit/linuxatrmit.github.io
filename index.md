@@ -1,7 +1,7 @@
 ## Useful Linux Utilities
 * ***ls*** list files in the directory
 
-```shell
+```
 ls
 ```
 
