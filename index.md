@@ -1,5 +1,7 @@
 ## Useful Linux Utilities
-* ***ls*** - list files in the directory
+* ***ls*** - List files in the directory
+* ***find*** - Search for path name, by name, size, regex match and many more
+* ***chmod*** - Change the permission mode for owner/group/other, to update their read/write/execute permissions
 
 
 #Distributions
