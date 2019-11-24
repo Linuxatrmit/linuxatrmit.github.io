@@ -1,11 +1,6 @@
 ## Useful Linux Utilities
 * ***ls*** list files in the directory
 
-```
-int main()
-{
-}
-```
 
 #Distributions
 ##[openSUSE](https://www.opensuse.org/)
