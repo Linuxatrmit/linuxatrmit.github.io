@@ -6,6 +6,9 @@
 <ul>
 <li><strong><em>find -name pattern</em></strong>  will match the <strong><em>base</em></strong> of a file name against the shell pattern specified by the argument. The pattern arg should be quoted to prevent the shell to do file name expansion before its execution. </li>
 <li><strong><em>find -regex pattern</em></strong> Will match the <strong><em>full</em></strong> path name of any file to the pattern. <em>regex</em> is emacs-style regex, but you can use -regextype to override the regex flavour used.</li>
+<li><strong><em>find -exeutable</em></strong> will return any file that has its execution mode bit set.</li>
+<li><strong><em>find -perm mode</em></strong> Will match the permission files the permission mode arg.</li>
+<li><strong><em>find -prune</em></strong> will ignore the content of any directory matched by previous predicates. If you want to ignore the directory itself to, you should and '-o' for or, before specifying the following predicates that if true, will execute the '-print' action.</li>
 </ul></li>
 <li><strong><em>chmod</em></strong> - Change the permission mode for owner/group/other, to update their read/write/execute permissions.</li>
 <li><strong><em>chown</em></strong> - Changes the owner/group attributes of a file.</li>

@@ -3,6 +3,9 @@
 * ***find*** - Search for path name, by name, size, regex match and many more
  * ***find -name pattern***  will match the ***base*** of a file name against the shell pattern specified by the argument. The pattern arg should be quoted to prevent the shell to do file name expansion before its execution. 
    * ***find -regex pattern*** Will match the ***full*** path name of any file to the pattern. *regex* is emacs-style regex, but you can use -regextype to override the regex flavour used.
+   * ***find -exeutable*** will return any file that has its execution mode bit set.
+   * ***find -perm mode*** Will match the permission files the permission mode arg.
+   * ***find -prune*** will ignore the content of any directory matched by previous predicates. If you want to ignore the directory itself to, you should and '-o' for or, before specifying the following predicates that if true, will execute the '-print' action.
 * ***chmod*** - Change the permission mode for owner/group/other, to update their read/write/execute permissions.
 * ***chown*** - Changes the owner/group attributes of a file.
 * ***man*** - Show help for commands.
